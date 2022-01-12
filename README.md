@@ -107,12 +107,12 @@ else:
 ## SAMPLE INPUT AND OUTPUT:
 
 ### Input:
-![input](./input.png)
+![input](https://user-images.githubusercontent.com/93427086/149074573-c5363bb3-0f1b-458c-a839-c43e7f06afbb.png)
 
 ### Output:
-![output](./output1.png)
-![output](./output2.png)
-![output](./output3.png)
+![output1](https://user-images.githubusercontent.com/93427086/149074549-b1ef5317-6f57-4bac-b4eb-83a29d189677.png)
+![output2](https://user-images.githubusercontent.com/93427086/149074556-6fbd6a51-a289-4035-a236-d24169b02544.png)
+![output3](https://user-images.githubusercontent.com/93427086/149074566-40b16c70-9ec9-4e61-a361-cb40f21ec3db.png)
 
 
 
